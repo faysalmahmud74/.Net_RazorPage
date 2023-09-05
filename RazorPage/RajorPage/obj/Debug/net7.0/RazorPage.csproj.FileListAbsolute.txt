@@ -1,0 +1,8 @@
+C:\Users\faysa\source\repos\RajorPage\RajorPage\obj\Debug\net7.0\RazorPage.csproj.AssemblyReference.cache
+C:\Users\faysa\source\repos\RajorPage\RajorPage\obj\Debug\net7.0\RazorPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faysa\source\repos\RajorPage\RajorPage\obj\Debug\net7.0\RazorPage.AssemblyInfoInputs.cache
+C:\Users\faysa\source\repos\RajorPage\RajorPage\obj\Debug\net7.0\RazorPage.AssemblyInfo.cs
+C:\Users\faysa\source\repos\RajorPage\RajorPage\obj\Debug\net7.0\RazorPage.csproj.CoreCompileInputs.cache
+C:\Users\faysa\source\repos\RajorPage\RajorPage\obj\Debug\net7.0\RazorPage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faysa\source\repos\RajorPage\RajorPage\obj\Debug\net7.0\RazorPage.RazorAssemblyInfo.cache
+C:\Users\faysa\source\repos\RajorPage\RajorPage\obj\Debug\net7.0\RazorPage.RazorAssemblyInfo.cs
